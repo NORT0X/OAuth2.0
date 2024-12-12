@@ -13,8 +13,8 @@ This project demonstrates a simple OAuth 2.0 flow, including an **Authorization 
 1. Clone the repository:
 
     ```bash
-    git clone <your-repository-url>
-    cd <project-directory>
+    git clone https://github.com/NORT0X/OAuth2.0.git
+    cd OAuth2.0
     ```
 
 2. Build and run the Docker containers:
